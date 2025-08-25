@@ -1,5 +1,4 @@
 # Video-Processing-and-Image-Stitching-Corner-Detection-and-Panoramic-Reconstruction
-**Note:** This project was a requirement for the course ENPM 673- Perception for Autonomous Robots at University of Maryland, College Park
 
 ## Project Description
 The project includes two tasks: 
